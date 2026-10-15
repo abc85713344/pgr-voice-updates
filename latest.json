@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "enabled": false,
+  "windows": {
+    "version": "2026.10.15-047.13",
+    "build": 4713,
+    "publishedAt": "2026-10-15",
+    "notes": ["新增检查更新，可查看更新内容并选择百度或夸克网盘下载。", "启动自动检查可在关于与更新中关闭；检查失败不影响配音和听书。"],
+    "downloadName": "百度网盘",
+    "downloadUrl": "https://pan.baidu.com/s/1ZNVqO_yscjlcUcrvrxyMwg?pwd=8paw",
+    "extractionCode": "8paw",
+    "mirrors": [{"name": "夸克网盘", "url": "https://pan.quark.cn/s/b715c1619515", "extractionCode": "6UEC"}]
+  },
+  "android": {
+    "version": "0.4.25",
+    "build": 65,
+    "publishedAt": "2026-10-15",
+    "notes": ["新增手动检查更新，可查看更新内容并选择百度或夸克网盘下载。", "启动自动检查默认关闭，可自行开启；配音和听书可离线，检查更新需联网。"],
+    "downloadName": "百度网盘",
+    "downloadUrl": "https://pan.baidu.com/s/1ZNVqO_yscjlcUcrvrxyMwg?pwd=8paw",
+    "extractionCode": "8paw",
+    "mirrors": [{"name": "夸克网盘", "url": "https://pan.quark.cn/s/b715c1619515", "extractionCode": "6UEC"}]
+  }
+}
